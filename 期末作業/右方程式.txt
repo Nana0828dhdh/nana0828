@@ -1,0 +1,26 @@
+<html>
+ <head>
+  <title>T3</title>
+ </head>
+ <body bgcolor="#D2E9FF">
+ <body>
+<img src="插圖.jpg" alt="插圖">
+<p><h2>第五人格學院</h2></p>
+<p><h4>哥德荒誕校學設計，懸疑可怕的都市傳說，刺激的1V4非對稱的上課方式，都將給學生帶來全新的遊戲體驗。</h4></p>
+<a href="https://www.identityvgame.com/tw//">第五人格學院</a>
+<p>
+<img src="傳說.jpg" alt="傳說">
+</p>
+<p><h2>傳說學院</h2></p>
+<p><h4>明媚的校園風景，到處是好看的學長姐，都在校園等著你的到來，一同參與學院季</h4></p>
+<a href="https://moba.garena.tw/">傳說學院</a>
+<p>
+
+<img src="帥哥.jpg" alt="帥哥">
+</p>
+<p><h2>戀與大學</h2></p>
+<p><h4>為了成為知名影視製作人，戀與市戀與大學提供超現實主義元素及專業及教授教學，讓學生有良好的體驗</h4></p>
+<a href="https://evol.joybomb.com.tw/index/index">戀與大學</a>
+
+ </body>
+ </html>
